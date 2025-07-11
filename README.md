@@ -1,5 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/[SEU-USUARIO]/conversor-moedas)
+![GitHub last commit](https://img.shields.io/github/last-commit/Coimbraitalo01/conversor-moedas)
+
+# Conversor de Moedas 💱
 
 Um conversor de moedas simples e eficiente, perfeito para seu portfólio!
 
@@ -17,7 +19,7 @@ Um conversor de moedas simples e eficiente, perfeito para seu portfólio!
 - JavaScript Vanilla
 
 ## 📸 Preview
-![Preview](./preview.pnghttps://github.com/Coimbraitalo01/conversor-moedas/blob/main/preview.png)
+![Preview do Conversor de Moedas](https://github.com/Coimbraitalo01/conversor-moedas/blob/main/preview.png?raw=true)
 
 ## 🔧 Como Usar
 ```bash
