@@ -17,7 +17,7 @@ Um conversor de moedas simples e eficiente, perfeito para seu portfólio!
 - JavaScript Vanilla
 
 ## 📸 Preview
-[https://via.placeholder.com/800x400?text=Preview+do+Conversor](https://github.com/Coimbraitalo01/conversor-moedas/blob/main/preview.png)
+![Preview](./preview.pnghttps://github.com/Coimbraitalo01/conversor-moedas/blob/main/preview.png)
 
 ## 🔧 Como Usar
 ```bash
